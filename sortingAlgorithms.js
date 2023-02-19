@@ -49,3 +49,8 @@ Understand the Big O complexities of brute force and binary search approaches.
 Describe how binary search works.
 Write a binary search algorithm to find a value in an array.
  */
+
+const binarySearch = [
+    'uses the middle index and goes left or right depending on its value',
+    'if it is no where to be found, algorithm will return "-1"'
+]
