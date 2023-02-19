@@ -14,3 +14,9 @@ Build a singly linked list.
 
 // array -- knows where data starts and ends
 // linked lists -- ordered collection of elements of the same type
+
+const linkedList = [
+    'take up more space than arrays',
+    'take more time to access',
+    'uncommon for linked list to be used by itself,, more with stacks and queues'
+]
