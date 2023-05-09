@@ -10,3 +10,12 @@ const hashingGuidlines = [
     "simple and efficient",
     "distribute values evenly throughout the hash talle and avoid collisions"
 ]
+
+const hashFunction = [
+    "algorithm that scrambles keys to produce indices",
+    "same input should always return same output"
+]
+
+const hashTable = [
+    "list-like data structure that's designed to quickly store and retrieve key data records"
+]
