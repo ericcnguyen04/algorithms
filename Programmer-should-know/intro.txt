@@ -2,3 +2,12 @@ computer science has 3 fields
 - theoretical computer science
 - computer engineering
 - applications
+
+=======================
+40 comp sci concepts
+
+1) algorithm and data structures
+
+Big O notation - O(1) O(n) O(n^2) O(2^N) O(log)
+
+sorting algorithms - bubble, sort, merge, etc
