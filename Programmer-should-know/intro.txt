@@ -19,3 +19,10 @@ data structures - array, stack, queues, hashTable
 greedy algorithm - picks best immediate choice and never reconsider
 
 hill climbing - find better solution by generating neighboring solution
+
+simulated annealing - one chance, sometimes you go back to explore other paths to reduce chances of taking wrong paths
+
+dynamic programming - store results of previous computation for future used
+
+machine learning - finding patterns and giving preferences
+
