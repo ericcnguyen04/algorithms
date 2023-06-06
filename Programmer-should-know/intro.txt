@@ -1,0 +1,4 @@
+computer science has 3 fields
+- theoretical computer science
+- computer engineering
+- applications
