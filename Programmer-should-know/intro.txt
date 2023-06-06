@@ -11,3 +11,11 @@ computer science has 3 fields
 Big O notation - O(1) O(n) O(n^2) O(2^N) O(log)
 
 sorting algorithms - bubble, sort, merge, etc
+
+data structures - array, stack, queues, hashTable
+
+2) artificial intelligence
+
+greedy algorithm - picks best immediate choice and never reconsider
+
+hill climbing - find better solution by generating neighboring solution
