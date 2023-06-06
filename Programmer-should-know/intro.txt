@@ -26,3 +26,5 @@ dynamic programming - store results of previous computation for future used
 
 machine learning - finding patterns and giving preferences
 
+P vs NP Problem - easy to solve vs easy to verify AND hard to solve
+ 
