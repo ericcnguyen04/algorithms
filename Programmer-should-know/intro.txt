@@ -28,3 +28,6 @@ machine learning - finding patterns and giving preferences
 
 P vs NP Problem - easy to solve vs easy to verify AND hard to solve
  
+3) computer architecture and engineering
+
+how computers work - car analogy
