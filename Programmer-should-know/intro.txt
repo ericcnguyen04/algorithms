@@ -38,3 +38,7 @@ halting problem -
 
 parallelism - 2 or more tasks run at the same time
 
+race condition - banking transactions, making sure they work,, use mutual exclusion
+
+mutual exclusion - locks bank account while ongoing transactions
+
