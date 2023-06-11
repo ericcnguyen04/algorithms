@@ -48,4 +48,8 @@ Binary Semaphore - think of queue, but one can skip the line because of higher p
 
 counting semaphore - process multiple transactions at the same time
 
-deadlock - an issue where 2 transactions wait for one another
+deadlock - an issue where 2 transactions wait for one 
+
+NoSQL - recipes in a book (ingredients, prep, mix, baking, finish)
+
+SQL - shopping for ingredients for the recipes
