@@ -46,3 +46,6 @@ Semaphore
 
 Binary Semaphore - think of queue, but one can skip the line because of higher priority
 
+counting semaphore - process multiple transactions at the same time
+
+deadlock - an issue where 2 transactions wait for one another
