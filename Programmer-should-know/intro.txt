@@ -42,3 +42,7 @@ race condition - banking transactions, making sure they work,, use mutual exclus
 
 mutual exclusion - locks bank account while ongoing transactions
 
+Semaphore
+
+Binary Semaphore - think of queue, but one can skip the line because of higher priority
+
